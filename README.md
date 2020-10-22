@@ -26,6 +26,7 @@ https://blog.vtryo.me
 * [Growthfaction 〜成長と充実を研究する会〜](https://growthfaction.booth.pm/)
   * [セイチョウ・ジャーニー](https://growthfaction.booth.pm/items/1038923)
   * [挫折論への招待](https://growthfaction.booth.pm/items/1317801)
+  * [ハラククリカタ](https://booth.pm/ja/items/2360522)
 * [誰も知らないエンドポイント 〜Web API編〜](https://vtryo.booth.pm/)
 
 ### Blog
