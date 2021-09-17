@@ -2,19 +2,6 @@
 
 [Profile site](https://vtryo.me)
 
-## Skills :rocket:
-
-* Infrastructure
-* Infrastructure as Code（Terraform, Ansible, etc...）
-* Monitoring（Datadog, etc...）
-* Docker
-* Kubernetes
-* AWS
-* CircleCI
-* Ruby on Rails
-* Community Manage
-* Writing
-
 ## Outputs :pen:
 
 ### Tech Blog
