@@ -8,13 +8,13 @@
 ![](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=flat)
 ![](https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=flat)
 ![](https://img.shields.io/badge/-Elasticsearch-005571.svg?logo=elasticsearch&style=flat)
-![](https://img.shields.io/badge/-Circleci-343434.svg?logo=circleci&style=flat)<br>
+![](https://img.shields.io/badge/-CircleCI-343434.svg?logo=circleci&style=flat)<br>
 ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![](https://img.shields.io/badge/-Ansible-black.svg?logo=ansible&style=flat)
 ![](https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=flat)
-![](https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat)
+![](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat)
 ![](https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=flat)
-![](https://img.shields.io/badge/redash-ff7964.svg?&style=flat)<br>
+![](https://img.shields.io/badge/Redash-ff7964.svg?&style=flat)<br>
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
 
 
