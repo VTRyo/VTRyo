@@ -28,6 +28,10 @@
 
 https://blog.vtryo.me
 
+### Author
+
+* [働き方アップグレードガイド（編著, 2021, インプレスR&D）](https://amzn.to/3JEXhH7)
+* [ITエンジニアのための偶然から始めるキャリアプラン -好奇心が導く予想しない未来-（2022, まんがびと）](https://amzn.to/3qlNPAz)
 
 ### TechBook（fanzine）
 
@@ -36,6 +40,11 @@ https://blog.vtryo.me
   * [挫折論への招待](https://growthfaction.booth.pm/items/1317801)
   * [ハラククリカタ](https://booth.pm/ja/items/2360522)
 * [誰も知らないエンドポイント 〜Web API編〜](https://vtryo.booth.pm/)
+
+### Tech conference
+
+* [AWS Summit Tokyo 2019 Startup Central ](https://speakerdeck.com/vtryo/create-paas-eks)
+* [SRE NEXT 2022](https://sre-next.dev/2022/)
 
 ### Blog
 
