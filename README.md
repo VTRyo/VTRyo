@@ -61,4 +61,6 @@ https://note.com/vtryo
 
 ![VTRyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTRyo&count_private=true&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VTRyo&exclude_repo=studyProgram,instruction_manual_yourself,vtryo.me,easybooks-Re-VIEW-Template,mazrica-techbook8,decomoji,ryo-obsidian,hugo-blog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/vtryo/contributions.svg)](http://qiita.com/vtryo)
