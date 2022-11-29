@@ -46,6 +46,7 @@ https://blog.vtryo.me
   * [セイチョウ・ジャーニー](https://growthfaction.booth.pm/items/1038923)
   * [挫折論への招待](https://growthfaction.booth.pm/items/1317801)
   * [ハラククリカタ](https://booth.pm/ja/items/2360522)
+  * [ジブンノセツメイショ](https://growthfaction.booth.pm/items/4328846)
 * [誰も知らないエンドポイント 〜Web API編〜](https://vtryo.booth.pm/)
 
 ### Tech conference
