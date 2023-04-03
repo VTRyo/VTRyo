@@ -15,6 +15,10 @@
  
  ![](https://img.shields.io/twitter/follow/3s_hv?style=social)
  
+ <h3>Buy me a beer🍺</h3>
+ 
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vtryo)
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
