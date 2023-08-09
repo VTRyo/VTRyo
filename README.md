@@ -57,6 +57,7 @@ https://blog.vtryo.me
 
 * [AWS Summit Tokyo 2019 Startup Central ](https://speakerdeck.com/vtryo/create-paas-eks)
 * [SRE NEXT 2022](https://sre-next.dev/2022/schedule#jp02)
+* [Developers Boost 2023 (Best speaker award 3rd)](https://codezine.jp/article/detail/18120)
 
 ### Blog
 
