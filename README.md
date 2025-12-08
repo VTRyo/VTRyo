@@ -45,17 +45,14 @@ https://blog.vtryo.me
 * [AWS Summit Tokyo 2019 Startup Central ](https://speakerdeck.com/vtryo/create-paas-eks)
 * [SRE NEXT 2022](https://sre-next.dev/2022/schedule#jp02)
 * [Developers Boost 2023 (Best speaker award 3rd)](https://codezine.jp/article/detail/18120)
-* [Money Forward TECH DAY'24](https://techday.moneyforward-dev.jp/2024/)
-* [SRE Kaigi 2025](https://2025.srekaigi.net/)
+* [Money Forward TECH DAY'24](https://speakerdeck.com/vtryo/introducing-go-cli-tool-platinum-for-shortened-db-upgrade-validation-a1a9779c-ce6a-47c9-80d8-7d0ef447f5d3)
+* [SRE Kaigi 2025](https://speakerdeck.com/vtryo/the-three-year-journey-of-the-sre-team-which-started-all-by-myself)
+* [SRE NEXT 2025](https://speakerdeck.com/vtryo/sre-next-2025-efforts-to-improve-developer-experience-in-an-organization-with-over-60-products)
 
 ### Blog
 
 https://note.com/vtryo
 
 ### Contributions
-
-![VTRyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTRyo&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VTRyo&exclude_repo=studyProgram,instruction_manual_yourself,vtryo.me,easybooks-Re-VIEW-Template,mazrica-techbook8,decomoji,ryo-obsidian,hugo-blog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/vtryo/contributions.svg)](http://qiita.com/vtryo)
