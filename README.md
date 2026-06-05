@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm VTRyo</h1>
-<h3 align="center">I'm a Site Reliability Engineer, and Novelist</h3>
+<h3 align="center">I'm a Site Reliability Engineer, Curry shop owner and Novelist</h3>
 
 - 👨‍💻 All of my projects are available at [https://vtryo.me](https://vtryo.me)
 
 - 📝 I regularly write articles on [https://blog.vtryo.me](https://blog.vtryo.me)
 
+- 🍛 Curry shop information [SPICE FOOD LABO にしげ](https://www.instagram.com/spicefoodlabo_nishige/)
 
 - ![](https://img.shields.io/badge/SRE-from2018-blue.svg?logo=SRE&style=flat)
 
@@ -48,6 +49,7 @@ https://blog.vtryo.me
 * [Money Forward TECH DAY'24](https://speakerdeck.com/vtryo/introducing-go-cli-tool-platinum-for-shortened-db-upgrade-validation-a1a9779c-ce6a-47c9-80d8-7d0ef447f5d3)
 * [SRE Kaigi 2025](https://speakerdeck.com/vtryo/the-three-year-journey-of-the-sre-team-which-started-all-by-myself)
 * [SRE NEXT 2025](https://speakerdeck.com/vtryo/sre-next-2025-efforts-to-improve-developer-experience-in-an-organization-with-over-60-products)
+* [クラウドネイティブ会議](https://speakerdeck.com/vtryo/is-that-99-dot-9-percent-slo-really-necessary-design-philosophy-of-shared-responsibility-through-prioritized-slos)
 
 ### Blog
 
